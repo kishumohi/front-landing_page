@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  /* min-height: 100vh; */
+  max-width: 1440px;
+  margin: 0 auto;
+  background-image: url("./assets/Path.png");
+  background-size: 1490px 1161px;
+  background-repeat: no-repeat;
+  background-position: 550px;
+}
+
+.app {
+  /* width: 80%; */
+  /* margin: auto; */
+  /* background-color: red; */
+  /* padding: 30px; */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

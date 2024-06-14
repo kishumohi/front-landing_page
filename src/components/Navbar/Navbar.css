@@ -1,0 +1,25 @@
+.nav-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.nav-main ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 165px;
+}
+
+.nav-main ul li {
+  cursor: pointer;
+  color: #505f98;
+}
+.nav-main button {
+  padding: 18px 26px;
+  background-color: #111b47;
+  color: #ffffff;
+  border: none;
+}

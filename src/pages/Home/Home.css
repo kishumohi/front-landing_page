@@ -1,0 +1,45 @@
+.home-main {
+  height: 100vh;
+  /* background-color: aqua; */
+  /* position: relative; */
+  /* text-align: left; */
+  /* background-image: url("../../assets/Path.png", "../../assets/Group.png"); */
+  background-image: url("../../assets/Group.png");
+  background-size: 32%;
+  background-repeat: no-repeat;
+  background-position: 100% 60%;
+  /* background-color: red; */
+}
+.home-hero-content {
+  height: 421px;
+  width: 539px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  margin-top: 05%;
+}
+.home-hero-content p {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.home-hero-content div {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  /* background-color: red; */
+}
+.home-hero-content .home-hero-btnPu {
+  padding: 15px 26px;
+  background-color: #111b47;
+  color: #ffffff;
+  border: none;
+  font-weight: bold;
+}
+.home-hero-content .home-hero-btnLearn {
+  padding: 15px 26px;
+  color: #111b47;
+  background-color: #ffffff;
+  border: 1px solid #111b47;
+  font-weight: bold;
+}
